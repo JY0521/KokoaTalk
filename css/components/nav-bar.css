@@ -20,3 +20,13 @@
     left: 15px;
     bottom: 15px;
 }
+.nav__notification2{
+    display: block;
+    position: absolute;
+    right: -10px;
+    top: -10px;
+    width: 5px;
+    height: 5px;
+    background-color: tomato;
+    border-radius: 5px;
+}
